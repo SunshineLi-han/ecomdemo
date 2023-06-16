@@ -1,0 +1,14 @@
+.carousel-image {
+    width: 100%;
+    max-height: 650px;
+}
+hr {
+    margin: 4% 0%;
+}
+
+.img {
+    text-align: center;
+}
+p {
+    font-size: 14px;
+}
